@@ -13,6 +13,8 @@ Here is a brief overview of the projects included in this repository:
 | [03_crime_data](./03_crime_data) | Exploring trends and frequencies in crime datasets. |
 | [04_netflix_analysis](./04_netflix_analysis) | Analyzing Netflix movies, durations, and genres over time. |
 | [05_nobel_prizes](./05_nobel_prizes) | Historical analysis of Nobel Prize winners and demographics. |
+| [06_ecomerce_data_cleaning](./06_ecomerce_data_cleaning) | Data wrangling and cleaning of a messy e-commerce dataset. |
+
 
 ## 🛠️ Technologies Used
 * Python
